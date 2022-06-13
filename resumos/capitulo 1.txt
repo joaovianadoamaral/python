@@ -1,0 +1,123 @@
+            primeiros passos: introdução e instalação de aplicativos necessários
+
+seja um programador
+
+vantagens em se aprender a programar, resolver problemas maiores
+e dividi-lo aos poucos.
+
+criatividade.
+
+não precisas de ingles avançado e não precisa de
+ingles avançado
+
+não existe idade para aprender a programador
+
+existe compromissos.
+
+não precisa ter pressa
+
+não seja arrogante
+--------------------------------------
+
+história do python 
+
+1982
+amsterdam holanda 
+
+guido van hossum
+
+tudo que era criado era dado o nome de tv
+monty python flying circus
+
+eles tentaram evitar a assossiação de cobras
+
+mas pela edição o'realy tinha animais nas capas.
+
+em 1995 
+projeto cp4e
+
+o windows não tem o python ja instalado no sistema
+amiga, Net bsd, Mac os, Linux ja tem instalado
+
+raspberryPi é um computadorzinho que tem o sistema
+pré instalado em suas entranhas
+
+o cara ainda ta vivo
+foi para o google e depois para o dropbox
+
+python é usado em uma linguagem geral.
+
+simples fácil e intuitivo.
+
+multiplataforma.
+
+batteries included, ja vem com muita coisa instalada.
+
+código aberto, livre
+
+organizada.
+
+orientada a objetos.
+
+muitas bibliotecas
+
+zen of python é as regras.
+------------------------------------
+
+usado em inteligencia artificial
+
+biotecnologia
+
+computação 3d.
+
+quem usa python?
+
+zope
+
+air canada, reserva de assentos
+
+bit torrent 
+
+globo
+
+googles -> robozinhos de busca
+
+youtube
+
+nasa
+
+industria do star wars
+
+arduino
+
+jogo de guitarra.
+------------------------------------
+
+portugues e grego
+
+dicionario ou interprete.
+
+vc só comunica o interprete de forma formal
+para que ele comunique de forma certa para o grego
+
+no caso temos o interpretador python e o computadorzinho
+---------------------------------------
+
+instalar o python no windows
+
+no prompt 'cmd'
+
+ao digitar python --version descrobe -se que o python não está instalado
+
+e caso esteja  digite python para usar.
+
+instale em pythom.org
+
+import this aparece a filosofia do python
+
+no caso do linux unbutu se da o comando no terminal: sudo apt get install python3.6(coloque a versão mais recente)
+
+usaremos um idle porque ele colore os comandos
+mas só no começo usaremos ele
+ele é uma ide
+--------------------------------------
