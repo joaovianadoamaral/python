@@ -1,0 +1,1 @@
+digite = input('seu nome ?')

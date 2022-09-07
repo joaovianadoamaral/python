@@ -1,8 +1,7 @@
 print('===== desafio 02 =====')
+nome = input('qual o seu nome? ')
+dia = input('dia em que nasceu -> ')
+mes = input('mes em que nasceu -> ')
+ano = input('ano em que nasceu -> ')
 
-dia=input('dia= ')
-mes=input('mes= ')
-ano=input('ano= ')
-
-print('Você nasceu no dia',dia,'de '+mes+' de',ano,'. correto?')
-
+print('Você nasceu no dia', dia, 'de ' + mes + ' de', ano, '.correto?', nome)
