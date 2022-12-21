@@ -1,59 +1,59 @@
-            primeiros passos: introdução e instalação de aplicativos necessários
+            Primeiros passos: introdução e instalação de aplicativos necessários
 
-seja um programador
+Seja um programador
 
-vantagens em se aprender a programar, resolver problemas maiores
-e dividi-lo aos poucos.
+Vantagens em se aprender a programar, resolver problemas maiores
+E dividi-lo gradualmente.
 
-criatividade.
+Criatividade.
 
-não precisas de ingles avançado e não precisa de
+Não precisas de ingles avançado e não precisa de
 ingles avançado
 
-não existe idade para aprender a programador
+Não existe idade para aprender a programador
 
-existe compromissos.
+Existem compromissos.
 
-não precisa ter pressa
+Não precisa ter pressa
 
-não seja arrogante
+Não seja arrogante
 --------------------------------------
 
-história do python 
+História do python
 
 1982
 amsterdam holanda 
 
-guido van hossum
+Guido van hossum
 
 tudo que era criado era dado o nome de tv
 monty python flying circus
 
-eles tentaram evitar a assossiação de cobras
+Eles tentaram evitar a assossiação de cobras
 
-mas pela edição o'realy tinha animais nas capas.
+Mas pela edição o'realy tinha animais nas capas.
 
 em 1995 
 projeto cp4e
 
-o windows não tem o python ja instalado no sistema
+O windows não tem o python ja instalado no sistema
 amiga, Net bsd, Mac os, Linux ja tem instalado
 
 raspberryPi é um computadorzinho que tem o sistema
-pré instalado em suas entranhas
+Pré-instalado na suas entranhas
 
 o cara ainda ta vivo
 foi para o google e depois para o dropbox
 
-python é usado em uma linguagem geral.
+Python é usado como linguagem geral.
 
 simples fácil e intuitivo.
 
 multiplataforma.
 
-batteries included, ja vem com muita coisa instalada.
+Batteries included, ja vem com muita coisa instalada.
 
-código aberto, livre
+Código aberto, livre
 
 organizada.
 
@@ -64,17 +64,17 @@ muitas bibliotecas
 zen of python é as regras.
 ------------------------------------
 
-usado em inteligencia artificial
+Usado na inteligencia artificial
 
 biotecnologia
 
-computação 3d.
+Computação 3d.
 
-quem usa python?
+Quem usa python?
 
 zope
 
-air canada, reserva de assentos
+Air canada, reserva de assentos
 
 bit torrent 
 
@@ -93,7 +93,7 @@ arduino
 jogo de guitarra.
 ------------------------------------
 
-portugues e grego
+Portugues e grego
 
 dicionario ou interprete.
 
@@ -105,7 +105,7 @@ no caso temos o interpretador python e o computadorzinho
 
 instalar o python no windows
 
-no prompt 'cmd'
+No prompt 'cmd'
 
 ao digitar python --version descrobe -se que o python não está instalado
 
@@ -115,9 +115,9 @@ instale em pythom.org
 
 import this aparece a filosofia do python
 
-no caso do linux unbutu se da o comando no terminal: sudo apt get install python3.6(coloque a versão mais recente)
+No caso do linux unbutu se comanda no terminal: sudo apt get install python3.6(coloque a versão mais recente)
 
-usaremos um idle porque ele colore os comandos
-mas só no começo usaremos ele
+Usaremos um idle porque ele colore os comandos
+Mas só no começo usaremos ele
 ele é uma ide
 --------------------------------------

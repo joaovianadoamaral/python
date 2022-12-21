@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="728c1718-b254-4652-b6b6-28f6f834a52d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/projetos curso em video/teste/ex003.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos curso em video/desafios/desafio02.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos curso em video/desafios/desafio02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resumos/capitulo 1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resumos/capitulo 1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,9 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/joaoj/Dropbox/python/projetos curso em video/desafios&quot;
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python&quot;
   }
 }</component>
   <component name="RecentsManager">
