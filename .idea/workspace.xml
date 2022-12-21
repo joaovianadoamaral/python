@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728c1718-b254-4652-b6b6-28f6f834a52d" name="Changes" comment="">
+    <list default="true" id="728c1718-b254-4652-b6b6-28f6f834a52d" name="Changes" comment="alterei letras maiusculas e correções ortográficas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumos/capitulo 1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resumos/capitulo 1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resumos/capitulo2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resumos/capitulo2.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,15 +24,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/python/resumos"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\resumos" />
       <recent name="C:\Users\joaoj\Dropbox\python\projetos curso em video\desafios" />
     </key>
   </component>
@@ -94,6 +95,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655675511616</updated>
     </task>
+    <task id="LOCAL-00001" summary="alterei letras maiusculas e correções ortográficas">
+      <created>1671663083275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671663083275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alterei letras maiusculas e correções ortográficas" />
+    <option name="LAST_COMMIT_MESSAGE" value="alterei letras maiusculas e correções ortográficas" />
   </component>
 </project>
