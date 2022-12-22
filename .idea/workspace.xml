@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728c1718-b254-4652-b6b6-28f6f834a52d" name="Changes" comment="alterei letras maiusculas e correções ortográficas">
+    <list default="true" id="728c1718-b254-4652-b6b6-28f6f834a52d" name="Changes" comment="analisei e editeios codigos">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos curso em video/desafios/desafio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos curso em video/desafios/desafio01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos curso em video/desafios/desafio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos curso em video/desafios/desafio03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos curso em video/desafios/desafio04.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos curso em video/desafios/desafio04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos curso em video/desafios/desafio01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos curso em video/desafios/desafio02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos curso em video/desafios/desafio03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos curso em video/desafios/desafio04.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +20,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/projetos curso em video/desafios/desafio01.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/projetos curso em video/desafios/desafio02.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/projetos curso em video/desafios/desafio03.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -159,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671663083275</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="analisei e editeios codigos">
+      <created>1671732063263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671732063263</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +178,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="alterei letras maiusculas e correções ortográficas" />
-    <option name="LAST_COMMIT_MESSAGE" value="alterei letras maiusculas e correções ortográficas" />
+    <MESSAGE value="analisei e editeios codigos" />
+    <option name="LAST_COMMIT_MESSAGE" value="analisei e editeios codigos" />
   </component>
 </project>
