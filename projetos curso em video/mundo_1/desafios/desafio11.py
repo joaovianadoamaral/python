@@ -6,5 +6,5 @@ print('{:=^25}'.format('desafio11'))
 largura = float(input('Digite a largura da parede: '))
 altura = float(input('Digite a altura da parede: '))
 area_parede = largura*altura
-latas = area_parede/2
-print('A quantidade necessária de tinta para pintar sua parede é : {:.2f}'.format(latas))
+tinta = area_parede/2
+print('A quantidade necessária de tinta para pintar sua parede de {:.2f}x{:.2f} é de: {:.2f}litros'.format(largura, altura, tinta))
