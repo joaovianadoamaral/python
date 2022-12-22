@@ -1,4 +1,4 @@
-print('===== desafio 04 =====')
+print('{:=^25}'.format('desafio04'))
 #Faça um programa que leia algo pelo teclado,mostre seu tipo primitivo e todas as informações sobre ele
 teste = input('digite algo na tela: ')
 print('a classe primitiva do que voce digitou é {}\n'.format(type(teste)))
