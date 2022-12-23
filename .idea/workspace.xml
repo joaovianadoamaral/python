@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728c1718-b254-4652-b6b6-28f6f834a52d" name="Changes" comment="analisei e editeios codigos">
-      <change afterPath="$PROJECT_DIR$/projetos curso em video/mundo_1/desafios/desafio20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos curso em video/mundo_1/desafios/desafio21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="728c1718-b254-4652-b6b6-28f6f834a52d" name="Changes" comment="analisei e editeios codigos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +53,7 @@
       <recent name="C:\Users\joaoj\Dropbox\python\projetos curso em video\desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio18">
+  <component name="RunManager" selected="Python.desafio17">
     <configuration name="desafio01" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,8 +182,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio18" />
         <item itemvalue="Python.desafio17" />
+        <item itemvalue="Python.desafio18" />
         <item itemvalue="Python.desafio16" />
         <item itemvalue="Python.emoji" />
         <item itemvalue="Python.modulo02" />
