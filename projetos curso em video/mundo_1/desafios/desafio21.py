@@ -1,2 +1,3 @@
-print('{:=^25}'.format('Desafio21'))
-#Faça um programa em python que abra e reproduza um arquivo mp3
+import pygame
+#como seria o programa caso o import do pygame fosse possivel
+
