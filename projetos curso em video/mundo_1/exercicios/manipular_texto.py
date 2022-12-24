@@ -24,6 +24,7 @@ print('Veja a transformação da frase para minusculas: {}'.format(frase.lower()
 print('Veja a transformação da frase para capitalizada: {}'.format(frase.capitalize()))
 print('Veja a trasnformação da frase para title: {}'.format(frase.title()))
 print('Veja a transformação da frase para strip(se houver): {}'.format(frase.strip()))
+#pode-se adicionar r(right) e l(left) na frente de strip para eliminação seletivo do começo ou do fim
 frase_aux.split()
 print('Veja a transformação da frase para split: {}'.format(frase_aux))
 '-'.join(frase_aux)
