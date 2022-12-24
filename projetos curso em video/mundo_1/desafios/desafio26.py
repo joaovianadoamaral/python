@@ -8,4 +8,4 @@ faça um programa que leia uma frase pelo teclado e mostre:
 frase = str(input('Digite uma frase -> '))
 cont_a = frase.count('a')
 pri_a = frase.find('a')
-ult_a = 
+ult_a = 1
