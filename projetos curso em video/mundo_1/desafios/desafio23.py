@@ -18,6 +18,8 @@ print('Unidade: {}\nDezena: {}\nCentena: {}\nMilhar: {}'.format(numero[3], numer
 num = int(input('Digite na tela um número entre 0 e 9999 -> '))
 aux = num
 #é possivel continuar a sequencia para cima seguindo a lógica a baixo
+#faz a divisão inteira para receber o digito mais significativo
+#guarda ele e retira sua casa decimal. se obtem um novo número e repete
 milhar = aux//1000
 aux = aux - milhar * 1000
 centena = aux//100
