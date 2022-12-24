@@ -7,6 +7,7 @@ primeiro = Ana
 último = Souza
 """
 nome = str(input('Digite seu nome completo -> '))
+#separar o nome em uma lista de palavras no qual é possivel descobrir o tamanho com len()
 aux = nome.split()
 tam = len(aux)
 #para joao vitor viana do amaral, tam = 5
