@@ -12,7 +12,7 @@ num2 = int(input('Digite o segundo valor inteiro: '))
 if num1 > num2:
     maior = num1
     print('O primeiro valor é maior')
-elif num1 < num1:
+elif num1 < num2:
     maior = num2
     print('O segundo valor é o maior')
 else:
