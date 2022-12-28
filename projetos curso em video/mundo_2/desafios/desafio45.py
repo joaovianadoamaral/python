@@ -35,22 +35,34 @@ elif escolha == 3:
     escolha = 'tesoura'
 #mostrar o jogador como vencedor
 if escolha == 'pedra' and escmaquina == 'tesoura' or escolha == 'papel' and escmaquina == 'pedra' or escolha == 'tesoura' and escmaquina == 'papel':
-    print('{}Processando resultado...{}'.format(roxo, padrao))
-    sleep(2)
+    print('{}Jo{}'.format(roxo, padrao))
+    sleep(1)
+    print('{}ken{}'.format(roxo, padrao))
+    sleep(1)
+    print('{}PÔ{}'.format(roxo, padrao))
+    sleep(1)
     print('{}Parabéns!!! Você conseguiu me vencer, '
           'eu escolhi {}{} {}e você escolheu {}{}{}'
           ''.format(verde, vermelho, escmaquina.upper(), verde, amarelo, escolha.upper(), padrao))
 #mostra a maquina como vencedora
 elif escmaquina == 'pedra' and escolha == 'tesoura' or escmaquina == 'papel' and escolha == 'pedra' or escmaquina == 'tesoura' and escolha == 'papel':
-    print('{}Processando resultado...{}'.format(roxo, padrao))
-    sleep(2)
+    print('{}Jo{}'.format(roxo, padrao))
+    sleep(1)
+    print('{}ken{}'.format(roxo, padrao))
+    sleep(1)
+    print('{}PÔ{}'.format(roxo, padrao))
+    sleep(1)
     print('{}Eu ganhei perderdor, '
           'eu escolhi {}{} {}e você escolheu {}{}{}'
           ''.format(vermelho, amarelo, escmaquina.upper(), vermelho, verde, escolha.upper(), padrao))
 #mostra o empate entre a maquina e o vencedor
 elif escolha == escmaquina:
-    print('{}Processando resultado...{}'.format(roxo, padrao))
-    sleep(2)
+    print('{}Jo{}'.format(roxo, padrao))
+    sleep(1)
+    print('{}ken{}'.format(roxo, padrao))
+    sleep(1)
+    print('{}PÔ{}'.format(roxo, padrao))
+    sleep(1)
     print('{}Nós empatamos mas da próxima vez eu ganharei, '
           'eu escolhi {}{} {}e você escolheu {}{}{}'
           ''.format(amarelo, vermelho, escmaquina.upper(), amarelo, verde, escolha.upper(), padrao))
