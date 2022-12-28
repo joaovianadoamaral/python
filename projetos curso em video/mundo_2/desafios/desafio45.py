@@ -1,6 +1,6 @@
 from random import randint
 from time import sleep
-#indica qual desafio é
+#Crie um programa que faça o computador jogar jokenpô com você
 print('{:=^25}'.format('Desafio 45'))
 #formatação de cores que irei usar
 vermelho = '\033[31m'
@@ -9,7 +9,7 @@ amarelo = '\033[33m'
 azul = '\033[34m'
 roxo= '\033[35m'
 padrao = '\033[m'
-#Crie um programa que faça o computador jogar jokenpô com você
+#inicio de programa
 print('\033[34m-=-'*25)
 print('{}Vamos jogar jokenpô? {}' .format(roxo, padrao))
 print('\033[34m-=-\033[m'*25)
