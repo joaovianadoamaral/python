@@ -1,3 +1,4 @@
+from datetime import date
 print('{:=^25}'.format('Desafio39'))
 """
 peça o usuario masculino a sua idade
@@ -5,7 +6,8 @@ peça o usuario masculino a sua idade
 -'é a hora de se alistar'
 -'Já passou do tempo de se alistar, e quanto tempo passou do prazo'
 """
-idade = float(input('Informe sua idade-> '))
+ano = float(input('Informe o seu ano de nascimento-> '))
+idade = date.today().year - ano
 #condição de alistamento
 if idade < 18:
     prazo = 18 - idade
