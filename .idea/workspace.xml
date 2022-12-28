@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728c1718-b254-4652-b6b6-28f6f834a52d" name="Changes" comment="analisei e editeios codigos">
-      <change beforePath="$PROJECT_DIR$/projetos curso em video/mundo_2/desafios/desafio47.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos curso em video/mundo_2/desafios/desafio47.py" afterDir="false" />
-    </list>
+    <list default="true" id="728c1718-b254-4652-b6b6-28f6f834a52d" name="Changes" comment="analisei e editeios codigos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,7 @@
       <recent name="C:\Users\joaoj\Dropbox\python\projetos curso em video\desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio47">
+  <component name="RunManager" selected="Python.desafio48">
     <configuration name="desafio01" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio48" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projetos curso em video/mundo_2/desafios/desafio51.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projetos curso em video/mundo_2/desafios/desafio48.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio48" />
         <item itemvalue="Python.desafio47" />
         <item itemvalue="Python.desafio46" />
         <item itemvalue="Python.desafio53" />
         <item itemvalue="Python.desafio52" />
-        <item itemvalue="Python.desafio51" />
       </list>
     </recent_temporary>
   </component>
