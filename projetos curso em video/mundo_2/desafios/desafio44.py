@@ -24,11 +24,16 @@ elif metodo == 2:
           'a vista no cartão'.format('\033[33m', valor, '\033[m', '\033[32m', npreco, '\033[m'))
 elif metodo == 3:
     npreco = valor
+    parcela = npreco/2
     print('O valor do produto será de {}R${:.2f}{}, '
           'até 2x sem juros'.format('\033[33m', npreco, '\033[m'))
+    print('Cada parcela será de {}R${:.2f}{}'.format('\033[33m', parcela, '\033[m'))
 elif metodo == 4:
+    qntd = int(input('Digite a quantidade de vezes: '))
     npreco = valor * 1.2
+    parcela = npreco/qntd
     print('O valor do produto passara de {}R${:.2f}{} para {}R${:.2f}{}, '
           'usando 3x ou mais'.format('\033[32m', valor, '\033[m', '\033[31m', npreco, '\033[m'))
+    print('Cada parcela será de {}R${:.2f}{}'.format('\033[33m', parcela, '\033[m'))
 else:
     print('{}O metodo de pagamento é invalido{}'.format('\033[31m', '\033[m'))

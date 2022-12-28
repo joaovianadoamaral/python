@@ -9,23 +9,23 @@ abaixo:
 - 30 até 39.9 : obesidade
 - acima de 40: obesidade morbida
 """
-altura = float(input('Digite sua altura -> '))
-peso = float(input('Digite seu peso -> '))
+altura = float(input('Digite sua altura em metros-> '))
+peso = float(input('Digite seu peso em Kg-> '))
 #calculo imc
 imc = peso / altura ** 2
 #grau de obesidade
 if imc < 18.5:
-    grau = 'abaixo do peso'
+    grau = 'abaixo do peso'.upper()
     print('O seu imc é {}{:.1f}{} e você está {}{}{}'.format('\033[31m', imc, '\033[m', '\033[31m', grau, '\033[m',))
 elif imc >= 18.5 and imc < 25:
-    grau = 'no peso ideal'
+    grau = 'no peso ideal'.upper()
     print('O seu imc é {}{:.1f}{} e você está {}{}{}'.format('\033[33m', imc, '\033[m', '\033[32m', grau, '\033[m', ))
 elif imc >= 25 and imc <30:
-    grau = 'com sobrepeso'
+    grau = 'com sobrepeso'.upper()
     print('O seu imc é {}{:.1f}{} e você está {}{}{}'.format('\033[32m', imc, '\033[m', '\033[33m', grau, '\033[m', ))
 elif imc >= 30 and imc < 40:
-    grau = 'com obesidade'
+    grau = 'com obesidade'.upper()
     print('O seu imc é {}{:.1f}{} e você está {}{}{}'.format('\033[33m', imc, '\033[m', '\033[33m', grau, '\033[m', ))
 else:
-    grau = 'com obesidade morbida'
+    grau = 'com obesidade morbida'.upper()
     print('O seu imc é {}{:.1f}{} e você está {}{}{}'.format('\033[31m', imc, '\033[m', '\033[31m', grau, '\033[m', ))
