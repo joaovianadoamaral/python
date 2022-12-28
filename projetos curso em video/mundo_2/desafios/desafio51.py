@@ -8,5 +8,5 @@ soma = 0
 for i in range(0, 10):
     pa = pt + razao*i
     soma += pa
-    print(pa)
-print('O somatorio dos {} primeiros números da PA é {}'.format(i+1, soma))
+    print(pa, end='->')
+print('\nO somatorio dos {} primeiros números da PA é {}'.format(i+1, soma))
