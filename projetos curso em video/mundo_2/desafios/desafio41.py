@@ -1,3 +1,4 @@
+from datetime import date
 print('{:=^25}'.format('Desafio41'))
 """
 A confederação nacional de natação precisa de um programa que leia o ano de nascimento
@@ -8,7 +9,8 @@ de um atleta e mostre sua categoria, de acordo com a idade:
 - até 20 anos: senior
 - acima: master
 """
-idade = float(input('Digite a sua idade -> '))
+idade = float(input('Digite o seu ano de nascimento -> '))
+idade = date.today().year - idade
 if idade <= 9:
     categoria = 'mirim'
 elif idade <= 14:
