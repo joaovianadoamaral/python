@@ -1,7 +1,8 @@
+from datetime import date
 nome = 'João Vitor'
 sobrenome = 'Viana do Amaral'
 idade = 19
-ano_nascimento = 2003
+ano_nascimento = date.day().year - idade
 maior_de_idade = idade >= 18
 altura_metros = 1.69
 print('Nome:', nome)
