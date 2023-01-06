@@ -17,3 +17,5 @@ formato = string.format(
 # podemos usar a função format com indices sendo que para '{2}{1}{0}'.format(a,b,c)
 # será printado na tela as variaveis na ordem : c b a. já que a possui o indice 0, b o indice 1, e c o indice 2
 # quando é passado 3 argumentos no format(), não necessariamente se usará os 3.
+
+# escolha entre f-strings, método .format() e interpolação '%s, %f, %d'.
