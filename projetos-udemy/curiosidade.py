@@ -40,3 +40,15 @@ if True and False \
 
 # id(variavel) - aponta onde a variavel/ conteudo dela está na memória.
 
+# é ruim declarar variaveis dentro de blocos, pode ser confuso, essa variavel inclusive pode
+# atrapalhar o fluxo do programa gerando bugs e erros.
+
+# None - Não é um valor, declarar fora para possivelmente atribuir um valor futuro.
+# use variavel is None / variavel is not None ao invés de variavel == None e vice versa.
+
+# caso eu queira saber se o interpretador entrou em uma condição. não crie a variavel la dentro
+# Flag é uma bandeira que marca um local.
+
+
+# solucionar problemas é chamado de algoritmo
+
