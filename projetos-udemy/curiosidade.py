@@ -37,3 +37,6 @@ if True and False \
 # no vs code vc consegue renomear todas as variaveis colocando o cursor nela e apertando f2
 
 # crlt + k + c - comentarios
+
+# id(variavel) - aponta onde a variavel/ conteudo dela está na memória.
+
