@@ -8,6 +8,7 @@ int_numero_1 = int(numero_1)
 int_numero_2 = int(numero_2)
 
 # quando se usa strings nomeadas, dela pra frente tem que nomear todas
+a=b=c=1
 string = 'b={nome2} a={nome1} a={nome1} c={nome3:.2f}'
 formato = string.format(
     nome1=a, nome2=b, nome3=c
