@@ -52,3 +52,14 @@ if True and False \
 
 # solucionar problemas é chamado de algoritmo
 
+# str, int, float e bool são dados imutaveis. não é possivel alterar o conteúdo em si.
+# crie outro variavel.
+# esses tipos imutaveis são objetos - possuem metodos.
+# existem dados mutaveis.
+
+# leia a documentação oficial de python
+
+# o break busca o laço mais próximo.
+
+
+
