@@ -1,5 +1,6 @@
 # iteração com for
 # use for para coisas 'FINITAS'
+# algo iteravel te entrega um valor por vez
 str = 'joão vitor viana do amaral'.title()
 for i in str: 
         print(i, end = ' ')
