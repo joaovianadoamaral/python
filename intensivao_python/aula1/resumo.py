@@ -27,13 +27,14 @@ pyautogui.pause = 1
 
 pyautogui.press('win') # abrir o navegador
 pyautogui.write('Opera GX')
+time.sleep(3)
 pyautogui.press('Enter')
 time.sleep(3)
 pyautogui.hotkey("ctrl", "t") 
 # abrir nova aba no pc, ja no navegador
 # pyautogui.write('link_que_eu_quero')
 # não construiram uma solução pronta para caractere especial
-pyperclip.copy('https://www.youtube.com/watch?v=JKOLBw5sHCw')
+pyperclip.copy('https://www.instagram.com/jvviana.amaral/')
 pyautogui.hotkey('ctrl', 'v')
 pyautogui.press('Enter')
 time.sleep(5)
