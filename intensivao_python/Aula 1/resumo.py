@@ -34,7 +34,7 @@ pyautogui.hotkey("ctrl", "t")
 # abrir nova aba no pc, ja no navegador
 # pyautogui.write('link_que_eu_quero')
 # não construiram uma solução pronta para caractere especial
-pyperclip.copy('https://www.instagram.com/jvviana.amaral/')
+pyperclip.copy('https://github.com/joaovianadoamaral')
 pyautogui.hotkey('ctrl', 'v')
 pyautogui.press('Enter')
 time.sleep(5)
